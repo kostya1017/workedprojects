@@ -5,48 +5,7 @@
 tr.RowBg{
 background-color:#FFFFFF;
 }
-tr.RowBg1{
-background-color:#FFFFFF;
-}
-tr.RowBg2 {
-background-color:#f2f2f2;
-}
-tr.ddRowBg{
-background-color:#EEEEEE;
-}
-tr.ddRowBg1{
-background-color:#F9F9F9;
-}
-tr.ddRowBg2 {
-background-color:#f6f6f6;
-}
-tr.orderDetailsLineItemTH{
-background-color:#e6e6e6;
-}
-tr.orderDetailsLineItemTH td{
-font-size:13.5px;
-}
-tr.orderDetailsLineItemTD td{
-font-size:12.5px;
-}
-tr.orderDetailsLineItemTD{
-background-color:#f3f7f8;
-}
 
-tr.RowHide{
-visibility:collapse;
-display:none;
-height:0px;
-padding:0px;
-margin-top:-9999px;
-}
-tr.RowHide td{
-visibility:collapse;
-display:none;
-height:0px;
-padding:0px;
-margin-top:-9999px;
-}
 </style>
 <table align="center" cellpadding="0" cellspacing="0" style="width:100%;border-collapse: collapse;background: #FFFFFF url({SITEURL}/custom/themes/default/images/company_logo.png) top left no-repeat;">
 	<tbody>
